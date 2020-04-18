@@ -14,6 +14,7 @@
 		1DF03636244B9AF100C12556 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DF03635244B9AF100C12556 /* Preview Assets.xcassets */; };
 		1DF03639244B9AF100C12556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DF03637244B9AF100C12556 /* LaunchScreen.storyboard */; };
 		1DF03642244B9B3F00C12556 /* AbsolutePositioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03641244B9B3F00C12556 /* AbsolutePositioning.swift */; };
+		1DF03645244B9C9400C12556 /* HotProspects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03644244B9C9400C12556 /* HotProspects.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1DF03638244B9AF100C12556 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DF0363A244B9AF100C12556 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1DF03641244B9B3F00C12556 /* AbsolutePositioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbsolutePositioning.swift; sourceTree = "<group>"; };
+		1DF03644244B9C9400C12556 /* HotProspects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotProspects.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		1DF0362B244B9AEC00C12556 /* SwiftUITutorials */ = {
 			isa = PBXGroup;
 			children = (
+				1DF03643244B9C7700C12556 /* CreatingContextMenu */,
 				1DF03640244B9B0B00C12556 /* LayoutAndGeometry */,
 				1DF0362C244B9AEC00C12556 /* AppDelegate.swift */,
 				1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */,
@@ -84,6 +87,14 @@
 				1DF03641244B9B3F00C12556 /* AbsolutePositioning.swift */,
 			);
 			path = LayoutAndGeometry;
+			sourceTree = "<group>";
+		};
+		1DF03643244B9C7700C12556 /* CreatingContextMenu */ = {
+			isa = PBXGroup;
+			children = (
+				1DF03644244B9C9400C12556 /* HotProspects.swift */,
+			);
+			path = CreatingContextMenu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,6 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DF03645244B9C9400C12556 /* HotProspects.swift in Sources */,
 				1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */,
 				1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */,
 				1DF03642244B9B3F00C12556 /* AbsolutePositioning.swift in Sources */,
