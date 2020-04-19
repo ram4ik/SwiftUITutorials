@@ -11,6 +11,7 @@
 		1D3DFE54244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE53244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift */; };
 		1D3DFE56244C40770018E0D5 /* HowToCreateCustomAlignmentGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE55244C40770018E0D5 /* HowToCreateCustomAlignmentGuide.swift */; };
 		1D3DFE59244C76340018E0D5 /* HotUserProspects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE58244C76340018E0D5 /* HotUserProspects.swift */; };
+		1D3DFE5B244C7DC00018E0D5 /* MakingVibrationsWithCoreHaptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE5A244C7DC00018E0D5 /* MakingVibrationsWithCoreHaptics.swift */; };
 		1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362C244B9AEC00C12556 /* AppDelegate.swift */; };
 		1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */; };
 		1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03630244B9AEC00C12556 /* ContentView.swift */; };
@@ -28,6 +29,7 @@
 		1D3DFE53244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingAlertAndSheetWithOptionals.swift; sourceTree = "<group>"; };
 		1D3DFE55244C40770018E0D5 /* HowToCreateCustomAlignmentGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToCreateCustomAlignmentGuide.swift; sourceTree = "<group>"; };
 		1D3DFE58244C76340018E0D5 /* HotUserProspects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotUserProspects.swift; sourceTree = "<group>"; };
+		1D3DFE5A244C7DC00018E0D5 /* MakingVibrationsWithCoreHaptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingVibrationsWithCoreHaptics.swift; sourceTree = "<group>"; };
 		1DF03629244B9AEC00C12556 /* SwiftUITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF0362C244B9AEC00C12556 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				1D3DFE51244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift */,
+				1D3DFE5A244C7DC00018E0D5 /* MakingVibrationsWithCoreHaptics.swift */,
 			);
 			path = Flashzilla;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D3DFE59244C76340018E0D5 /* HotUserProspects.swift in Sources */,
+				1D3DFE5B244C7DC00018E0D5 /* MakingVibrationsWithCoreHaptics.swift in Sources */,
 				1DF03648244C2EA300C12556 /* WorkingWithTwoSideViews.swift in Sources */,
 				1D3DFE56244C40770018E0D5 /* HowToCreateCustomAlignmentGuide.swift in Sources */,
 				1DF03645244B9C9400C12556 /* HotProspects.swift in Sources */,
