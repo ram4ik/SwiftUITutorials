@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D3DFE52244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE51244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift */; };
+		1D3DFE54244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE53244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift */; };
 		1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362C244B9AEC00C12556 /* AppDelegate.swift */; };
 		1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */; };
 		1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03630244B9AEC00C12556 /* ContentView.swift */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		1D3DFE51244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToBeNotifiedWhenAppMOvesToTheBackground.swift; sourceTree = "<group>"; };
+		1D3DFE53244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingAlertAndSheetWithOptionals.swift; sourceTree = "<group>"; };
 		1DF03629244B9AEC00C12556 /* SwiftUITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF0362C244B9AEC00C12556 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 			children = (
 				1DF03647244C2EA300C12556 /* WorkingWithTwoSideViews.swift */,
 				1DF03649244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift */,
+				1D3DFE53244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift */,
 			);
 			path = ShowSeeker;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				1DF03645244B9C9400C12556 /* HotProspects.swift in Sources */,
 				1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */,
 				1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */,
+				1D3DFE54244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift in Sources */,
 				1DF03642244B9B3F00C12556 /* AbsolutePositioning.swift in Sources */,
 				1DF0364A244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift in Sources */,
 				1D3DFE52244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift in Sources */,
