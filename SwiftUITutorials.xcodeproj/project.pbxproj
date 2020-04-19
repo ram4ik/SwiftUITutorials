@@ -15,6 +15,7 @@
 		1D3DFE5D244C89320018E0D5 /* UnderstandingFramesAndCoordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE5C244C89320018E0D5 /* UnderstandingFramesAndCoordinates.swift */; };
 		1D3DFE5F244CA2990018E0D5 /* DisablingUserInteractivityWithAllowHitTesting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE5E244CA2990018E0D5 /* DisablingUserInteractivityWithAllowHitTesting.swift */; };
 		1D3DFE61244CAA7F0018E0D5 /* HowToUseGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE60244CAA7F0018E0D5 /* HowToUseGestures.swift */; };
+		1D3DFE63244CCC9C0018E0D5 /* AlignmentAndAlignmentGuides.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE62244CCC9C0018E0D5 /* AlignmentAndAlignmentGuides.swift */; };
 		1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362C244B9AEC00C12556 /* AppDelegate.swift */; };
 		1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */; };
 		1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03630244B9AEC00C12556 /* ContentView.swift */; };
@@ -36,6 +37,7 @@
 		1D3DFE5C244C89320018E0D5 /* UnderstandingFramesAndCoordinates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderstandingFramesAndCoordinates.swift; sourceTree = "<group>"; };
 		1D3DFE5E244CA2990018E0D5 /* DisablingUserInteractivityWithAllowHitTesting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisablingUserInteractivityWithAllowHitTesting.swift; sourceTree = "<group>"; };
 		1D3DFE60244CAA7F0018E0D5 /* HowToUseGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseGestures.swift; sourceTree = "<group>"; };
+		1D3DFE62244CCC9C0018E0D5 /* AlignmentAndAlignmentGuides.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentAndAlignmentGuides.swift; sourceTree = "<group>"; };
 		1DF03629244B9AEC00C12556 /* SwiftUITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF0362C244B9AEC00C12556 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				1DF03641244B9B3F00C12556 /* AbsolutePositioning.swift */,
 				1D3DFE55244C40770018E0D5 /* HowToCreateCustomAlignmentGuide.swift */,
 				1D3DFE5C244C89320018E0D5 /* UnderstandingFramesAndCoordinates.swift */,
+				1D3DFE62244CCC9C0018E0D5 /* AlignmentAndAlignmentGuides.swift */,
 			);
 			path = LayoutAndGeometry;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				1D3DFE54244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift in Sources */,
 				1D3DFE5D244C89320018E0D5 /* UnderstandingFramesAndCoordinates.swift in Sources */,
 				1D3DFE61244CAA7F0018E0D5 /* HowToUseGestures.swift in Sources */,
+				1D3DFE63244CCC9C0018E0D5 /* AlignmentAndAlignmentGuides.swift in Sources */,
 				1DF03642244B9B3F00C12556 /* AbsolutePositioning.swift in Sources */,
 				1DF0364A244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift in Sources */,
 				1D3DFE52244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift in Sources */,
