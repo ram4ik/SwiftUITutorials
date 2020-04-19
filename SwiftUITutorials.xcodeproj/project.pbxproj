@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D3DFE52244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE51244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift */; };
 		1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362C244B9AEC00C12556 /* AppDelegate.swift */; };
 		1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */; };
 		1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03630244B9AEC00C12556 /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D3DFE51244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToBeNotifiedWhenAppMOvesToTheBackground.swift; sourceTree = "<group>"; };
 		1DF03629244B9AEC00C12556 /* SwiftUITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF0362C244B9AEC00C12556 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -45,6 +47,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1D3DFE50244C39E00018E0D5 /* Flashzilla */ = {
+			isa = PBXGroup;
+			children = (
+				1D3DFE51244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift */,
+			);
+			path = Flashzilla;
+			sourceTree = "<group>";
+		};
 		1DF03620244B9AEC00C12556 = {
 			isa = PBXGroup;
 			children = (
@@ -64,6 +74,7 @@
 		1DF0362B244B9AEC00C12556 /* SwiftUITutorials */ = {
 			isa = PBXGroup;
 			children = (
+				1D3DFE50244C39E00018E0D5 /* Flashzilla */,
 				1DF03646244C2E8300C12556 /* ShowSeeker */,
 				1DF03643244B9C7700C12556 /* CreatingContextMenu */,
 				1DF03640244B9B0B00C12556 /* LayoutAndGeometry */,
@@ -188,6 +199,7 @@
 				1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */,
 				1DF03642244B9B3F00C12556 /* AbsolutePositioning.swift in Sources */,
 				1DF0364A244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift in Sources */,
+				1D3DFE52244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift in Sources */,
 				1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
