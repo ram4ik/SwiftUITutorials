@@ -15,6 +15,8 @@
 		1DF03639244B9AF100C12556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DF03637244B9AF100C12556 /* LaunchScreen.storyboard */; };
 		1DF03642244B9B3F00C12556 /* AbsolutePositioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03641244B9B3F00C12556 /* AbsolutePositioning.swift */; };
 		1DF03645244B9C9400C12556 /* HotProspects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03644244B9C9400C12556 /* HotProspects.swift */; };
+		1DF03648244C2EA300C12556 /* WorkingWithTwoSideViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03647244C2EA300C12556 /* WorkingWithTwoSideViews.swift */; };
+		1DF0364A244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03649244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		1DF0363A244B9AF100C12556 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1DF03641244B9B3F00C12556 /* AbsolutePositioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbsolutePositioning.swift; sourceTree = "<group>"; };
 		1DF03644244B9C9400C12556 /* HotProspects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotProspects.swift; sourceTree = "<group>"; };
+		1DF03647244C2EA300C12556 /* WorkingWithTwoSideViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingWithTwoSideViews.swift; sourceTree = "<group>"; };
+		1DF03649244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingGroupsAsTransparentLayoutContainers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,7 @@
 		1DF0362B244B9AEC00C12556 /* SwiftUITutorials */ = {
 			isa = PBXGroup;
 			children = (
+				1DF03646244C2E8300C12556 /* ShowSeeker */,
 				1DF03643244B9C7700C12556 /* CreatingContextMenu */,
 				1DF03640244B9B0B00C12556 /* LayoutAndGeometry */,
 				1DF0362C244B9AEC00C12556 /* AppDelegate.swift */,
@@ -95,6 +100,15 @@
 				1DF03644244B9C9400C12556 /* HotProspects.swift */,
 			);
 			path = CreatingContextMenu;
+			sourceTree = "<group>";
+		};
+		1DF03646244C2E8300C12556 /* ShowSeeker */ = {
+			isa = PBXGroup;
+			children = (
+				1DF03647244C2EA300C12556 /* WorkingWithTwoSideViews.swift */,
+				1DF03649244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift */,
+			);
+			path = ShowSeeker;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,10 +182,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DF03648244C2EA300C12556 /* WorkingWithTwoSideViews.swift in Sources */,
 				1DF03645244B9C9400C12556 /* HotProspects.swift in Sources */,
 				1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */,
 				1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */,
 				1DF03642244B9B3F00C12556 /* AbsolutePositioning.swift in Sources */,
+				1DF0364A244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift in Sources */,
 				1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
