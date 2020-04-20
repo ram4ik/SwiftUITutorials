@@ -19,6 +19,7 @@
 		1D3DFE65244CD7D60018E0D5 /* SupportingSpecificAccessibilityNeeds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE64244CD7D60018E0D5 /* SupportingSpecificAccessibilityNeeds.swift */; };
 		1D3DFE67244CE0450018E0D5 /* ScrollViewEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE66244CE0450018E0D5 /* ScrollViewEffects.swift */; };
 		1D3DFE69244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE68244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift */; };
+		1D3DFE6B244CEAAF0018E0D5 /* UnderstandingResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE6A244CEAAF0018E0D5 /* UnderstandingResultType.swift */; };
 		1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362C244B9AEC00C12556 /* AppDelegate.swift */; };
 		1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */; };
 		1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03630244B9AEC00C12556 /* ContentView.swift */; };
@@ -44,6 +45,7 @@
 		1D3DFE64244CD7D60018E0D5 /* SupportingSpecificAccessibilityNeeds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupportingSpecificAccessibilityNeeds.swift; sourceTree = "<group>"; };
 		1D3DFE66244CE0450018E0D5 /* ScrollViewEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewEffects.swift; sourceTree = "<group>"; };
 		1D3DFE68244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManuallyPUblishObservableObjectChanges.swift; sourceTree = "<group>"; };
+		1D3DFE6A244CEAAF0018E0D5 /* UnderstandingResultType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderstandingResultType.swift; sourceTree = "<group>"; };
 		1DF03629244B9AEC00C12556 /* SwiftUITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF0362C244B9AEC00C12556 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 			children = (
 				1D3DFE58244C76340018E0D5 /* HotUserProspects.swift */,
 				1D3DFE68244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift */,
+				1D3DFE6A244CEAAF0018E0D5 /* UnderstandingResultType.swift */,
 			);
 			path = HotProspects;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				1D3DFE69244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift in Sources */,
 				1D3DFE54244C3CF70018E0D5 /* UsingAlertAndSheetWithOptionals.swift in Sources */,
 				1D3DFE5D244C89320018E0D5 /* UnderstandingFramesAndCoordinates.swift in Sources */,
+				1D3DFE6B244CEAAF0018E0D5 /* UnderstandingResultType.swift in Sources */,
 				1D3DFE65244CD7D60018E0D5 /* SupportingSpecificAccessibilityNeeds.swift in Sources */,
 				1D3DFE61244CAA7F0018E0D5 /* HowToUseGestures.swift in Sources */,
 				1D3DFE63244CCC9C0018E0D5 /* AlignmentAndAlignmentGuides.swift in Sources */,
