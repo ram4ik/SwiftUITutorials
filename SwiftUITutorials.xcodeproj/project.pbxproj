@@ -20,6 +20,7 @@
 		1D3DFE67244CE0450018E0D5 /* ScrollViewEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE66244CE0450018E0D5 /* ScrollViewEffects.swift */; };
 		1D3DFE69244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE68244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift */; };
 		1D3DFE6B244CEAAF0018E0D5 /* UnderstandingResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE6A244CEAAF0018E0D5 /* UnderstandingResultType.swift */; };
+		1D3DFE6D244D75660018E0D5 /* TriggeringEventsRepeatedlyUsingATimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3DFE6C244D75660018E0D5 /* TriggeringEventsRepeatedlyUsingATimer.swift */; };
 		1DF0362D244B9AEC00C12556 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362C244B9AEC00C12556 /* AppDelegate.swift */; };
 		1DF0362F244B9AEC00C12556 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */; };
 		1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF03630244B9AEC00C12556 /* ContentView.swift */; };
@@ -46,6 +47,7 @@
 		1D3DFE66244CE0450018E0D5 /* ScrollViewEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewEffects.swift; sourceTree = "<group>"; };
 		1D3DFE68244CE7980018E0D5 /* ManuallyPUblishObservableObjectChanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManuallyPUblishObservableObjectChanges.swift; sourceTree = "<group>"; };
 		1D3DFE6A244CEAAF0018E0D5 /* UnderstandingResultType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderstandingResultType.swift; sourceTree = "<group>"; };
+		1D3DFE6C244D75660018E0D5 /* TriggeringEventsRepeatedlyUsingATimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriggeringEventsRepeatedlyUsingATimer.swift; sourceTree = "<group>"; };
 		1DF03629244B9AEC00C12556 /* SwiftUITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF0362C244B9AEC00C12556 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DF0362E244B9AEC00C12556 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				1D3DFE5E244CA2990018E0D5 /* DisablingUserInteractivityWithAllowHitTesting.swift */,
 				1D3DFE60244CAA7F0018E0D5 /* HowToUseGestures.swift */,
 				1D3DFE64244CD7D60018E0D5 /* SupportingSpecificAccessibilityNeeds.swift */,
+				1D3DFE6C244D75660018E0D5 /* TriggeringEventsRepeatedlyUsingATimer.swift */,
 			);
 			path = Flashzilla;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				1DF0364A244C304B00C12556 /* UsingGroupsAsTransparentLayoutContainers.swift in Sources */,
 				1D3DFE52244C3A080018E0D5 /* HowToBeNotifiedWhenAppMOvesToTheBackground.swift in Sources */,
 				1DF03631244B9AEC00C12556 /* ContentView.swift in Sources */,
+				1D3DFE6D244D75660018E0D5 /* TriggeringEventsRepeatedlyUsingATimer.swift in Sources */,
 				1D3DFE5F244CA2990018E0D5 /* DisablingUserInteractivityWithAllowHitTesting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
